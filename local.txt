@@ -1,2 +1,6 @@
 local chnage
+<<<<<<< Updated upstream
 download me
+=======
+Hey I am new
+>>>>>>> Stashed changes
