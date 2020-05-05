@@ -1,5 +1,5 @@
-<<<<<<< Updated upstream
-I am up, down me.
-=======
 I am down, take me up
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
