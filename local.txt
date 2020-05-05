@@ -1,5 +1,9 @@
 I am down, take me up
 <<<<<<< Updated upstream
+<<<<<<< HEAD
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+I am up, down me.
+>>>>>>> 83d477f61372305dcc816fab92790399fb366605
