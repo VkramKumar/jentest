@@ -1,9 +1,8 @@
 # jentest
 For jenkins pipe test
 B2 change 2
-p
-Q
-Q2
-Q4
-Q5
+S1
+S2
+S3
+S4
 Q6
